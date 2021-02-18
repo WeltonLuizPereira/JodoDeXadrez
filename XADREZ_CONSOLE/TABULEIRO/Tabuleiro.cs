@@ -16,5 +16,10 @@ namespace XADREZ_CONSOLE.TABULEIRO
             Colunas = colunas;
             Pecas = new Peca[linhas, colunas];
         }
+
+        public Peca AdicionarPeca(int linha, int coluna)
+        {
+            return Pecas[linha, coluna];
+        }
     }
 }
