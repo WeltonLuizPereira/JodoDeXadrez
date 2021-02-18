@@ -1,0 +1,13 @@
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.exe
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.deps.json
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.runtimeconfig.json
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.runtimeconfig.dev.json
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.dll
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\bin\Debug\netcoreapp3.1\XADREZ_CONSOLE.pdb
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.csprojAssemblyReference.cache
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.AssemblyInfoInputs.cache
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.AssemblyInfo.cs
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.dll
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.pdb
+C:\Users\WeltonPereira-SPFibe\Desktop\C#\CAP_11_PPP_PROJETO_XADREZ\XADREZ_CONSOLE\XADREZ_CONSOLE\obj\Debug\netcoreapp3.1\XADREZ_CONSOLE.genruntimeconfig.cache
