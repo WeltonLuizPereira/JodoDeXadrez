@@ -1,0 +1,10 @@
+{
+  "name": "super-simulador",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Core logic for Super Simulador of lottery games",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
